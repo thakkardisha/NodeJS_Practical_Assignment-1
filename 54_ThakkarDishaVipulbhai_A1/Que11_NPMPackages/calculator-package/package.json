@@ -1,0 +1,11 @@
+{
+    "name": "your-unique-calculator-package",
+    "version": "1.0.0",
+    "description": "A simple calculator package",
+    "main": "index.js",
+    "keywords": [
+        "calculator",
+        "nodejs"
+    ],
+    "license": "ISC"
+}

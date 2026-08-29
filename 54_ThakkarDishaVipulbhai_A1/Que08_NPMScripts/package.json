@@ -1,0 +1,16 @@
+{
+  "name": "que8_npmscripts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+        "test": "node test.js",
+        "hello": "node hello.js",
+        "info": "node info.js",
+        "welcome": "node welcome.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
